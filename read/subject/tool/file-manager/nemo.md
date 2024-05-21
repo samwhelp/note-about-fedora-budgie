@@ -22,7 +22,7 @@ grand_parent: 工具
 
 | 微調腳本 |
 | --- |
-| [nemo](https://github.com/samwhelp/xubuntu-adjustment/tree/main/prototype/main/tool-config/part/nemo) |
+| [nemo](https://github.com/samwhelp/fedora-budgie-adjustment/tree/main/prototype/main/tool-config/part/nemo) |
 
 
 ## Ubuntu Package Search
