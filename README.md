@@ -13,6 +13,7 @@
 ## 主題
 
 * [微調腳本](#微調腳本)
+* [按鍵綁定](#按鍵綁定)
 * [如何](#如何)
 * [相關筆記](#相關筆記)
 
@@ -24,6 +25,16 @@
 | 微調腳本 |
 | -------- |
 | [Fedora Budgie](https://github.com/samwhelp/fedora-budgie-adjustment/tree/main) |
+
+
+
+
+## 按鍵綁定
+
+| 按鍵綁定 |
+| --- |
+| [鍵盤按鍵綁定](https://samwhelp.github.io/note-about-fedora-budgie/read/config/keybind.html) |
+| [滑鼠按鍵綁定](https://samwhelp.github.io/note-about-fedora-budgie/read/config/mousebind.html) |
 
 
 
