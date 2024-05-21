@@ -14,6 +14,7 @@
 
 * [微調腳本](#微調腳本)
 * [按鍵綁定](#按鍵綁定)
+* [佈景主題](#佈景主題)
 * [工具](#工具)
 * [如何](#如何)
 * [相關筆記](#相關筆記)
@@ -36,6 +37,15 @@
 | --- |
 | [鍵盤按鍵綁定](https://samwhelp.github.io/note-about-fedora-budgie/read/config/keybind.html) |
 | [滑鼠按鍵綁定](https://samwhelp.github.io/note-about-fedora-budgie/read/config/mousebind.html) |
+
+
+
+
+## 佈景主題
+
+| [佈景主題](https://samwhelp.github.io/note-about-fedora-budgie/read/subject/theme.html) |
+| -------- |
+| [設定採用「GURB 佈景主題」](https://samwhelp.github.io/note-about-fedora-budgie/read/subject/grub.html) |
 
 
 
