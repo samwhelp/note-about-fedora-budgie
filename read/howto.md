@@ -1,11 +1,12 @@
 ---
 title: 如何
-nav_order: 7000
+nav_order: 1020
 has_children: true
 ---
 
 
 # 如何
+
 
 
 ## 滑鼠按鍵綁定
@@ -14,6 +15,8 @@ has_children: true
 | ------- |
 | [設定「Mouse Button Modifier」](https://samwhelp.github.io/note-about-fedora-budgie/read/howto/config-mouse-button-modifier.html) |
 | [停用按鍵綁定「Super_L」開啟「Main Menu」](https://samwhelp.github.io/note-about-fedora-budgie/read/howto/disable-keybind-open-main-menu.html) |
+
+
 
 
 ## 外觀設定
