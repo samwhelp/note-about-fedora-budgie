@@ -34,6 +34,12 @@
 | [Tool Config](https://github.com/samwhelp/fedora-adjustment/tree/main/prototype/main/tool-config/part) |
 
 
+| Style Management |
+| ---------------- |
+| [make-budgie-style](https://github.com/samwhelp/make-budgie-style) |
+| [demo-style-select](https://github.com/samwhelp/note-about-menu-applet/tree/gh-pages/_demo/prototype/menu-applet/demo-application/demo-style-select) |
+
+
 
 
 ## 概覽
